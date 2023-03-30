@@ -1,7 +1,7 @@
 const Error = () => (
   <div className="w-full flex justify-center items-center">
     <h1 className='font-bold text-2xl text-white mt-2'>
-      Something went wrong. Please try Again.
+    Something went wrong. API currently unavailable.
     </h1>
   </div>
 );
